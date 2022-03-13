@@ -1,0 +1,6 @@
+C:\Users\audrm\source\repos\test2\bin\Debug\ConsoleApplication.exe
+C:\Users\audrm\source\repos\test2\bin\Debug\ConsoleApplication.pdb
+C:\Users\audrm\source\repos\test2\obj\x86\Debug\chess2.csprojAssemblyReference.cache
+C:\Users\audrm\source\repos\test2\obj\x86\Debug\chess2.csproj.CoreCompileInputs.cache
+C:\Users\audrm\source\repos\test2\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\audrm\source\repos\test2\obj\x86\Debug\ConsoleApplication.pdb
